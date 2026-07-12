@@ -3,7 +3,7 @@
   connection: local # it will not ask for username and password
   vars:
     COURSE: "Ansible"
-    NAME: "sivakumar"
+    NAME: "Nanda"
     DURATION: "150HRS"
   tasks:
   - debug:
