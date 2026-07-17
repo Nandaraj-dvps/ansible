@@ -1,0 +1,4 @@
+COURSE: "Ansible from group_vars"
+NAME: "Nanda"
+DURATION: "10HRS"
+full_name: "Nanda from inventory group_vars"
